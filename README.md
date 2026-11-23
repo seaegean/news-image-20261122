@@ -1,5 +1,9 @@
 # The Daily Ledger — Sunday 22 November 2026
 
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/seaegean/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/seaegean/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 A make.fun news-image entry: one image summing up the world news of
 Sunday 22 November 2026, in the style of a classic newspaper front page.
 
@@ -50,4 +54,6 @@ program twice produces byte-identical output.
 ## Bounty
 
 Submitted to the make.fun bounty "Sum up 22 November's world news in
-one image" — https://make.fun
+one image" — https://make.fun/bounty/news-image-20261122
+
+Referral code: `cqypmhf6` — https://make.fun/r/cqypmhf6
